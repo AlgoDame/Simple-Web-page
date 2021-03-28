@@ -13,7 +13,7 @@ function createChar(data) {
 
     let itemImg = document.createElement("img");
     itemImg.classList = "img-2";
-    itemImg.src = `../images/img${i}.jpeg`;
+    itemImg.src = `./images/img${i}.jpeg`;
 
     let itemPara = document.createElement("p");
     itemPara.classList = "description";

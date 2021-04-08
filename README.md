@@ -4,7 +4,7 @@
 
 You are to create a SPA (single page application) application using html, CSS and JavaScript. It shows all characters from a star wars API (https://swapi.dev/api/people) . Read the documentation and implement as follows.
 
-### Process ?
+### Process 
 
 1. When you are done, host on heroku or netlify (submit link should be added to your turned in field on Teams)
 
